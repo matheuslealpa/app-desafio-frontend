@@ -9,6 +9,21 @@
     margin: 10px 0 20px 0px;
 }
 
+.section-divider {
+    border-top: 1px solid #e2e8f0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.anexo {
+    margin-bottom: 10px;
+}
+
+.error-message {
+    color: red;
+    display: none;
+}
+
 .produto {
     border: 1px solid #e2e8f0;
     padding: 10px;
